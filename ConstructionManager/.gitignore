@@ -1,0 +1,85 @@
+# Expo
+.expo/
+web-build/
+dist/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+build/
+*.tgz
+
+# TypeScript
+*.tsbuildinfo
+
+# Temporary folders
+tmp/
+temp/
+
+# React Native
+.react-native/
+
+# iOS
+ios/Pods/
+ios/**/*.xcworkspace/xcuserdata/
+ios/**/*.xcworkspace/xcshareddata/
+*.ipa
+
+# Android
+android/app/build/
+android/build/
+*.apk
+*.aab
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Bundle artifacts
+*.jsbundle
+
+# CocoaPods
+ios/Pods/
+
+# Expo
+.expo-shared/
+*.orig.*
+
+# Web
+web-build/
+
+# Debug
+yarn-debug.log*
+npm-debug.log*
+
+# Local Netlify folder
+.netlify
